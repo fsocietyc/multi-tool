@@ -1,0 +1,28 @@
+VSVersionInfo(
+  ffi=FixedFileInfo(
+    filevers=(5, 0, 0, 0),
+    prodvers=(5, 0, 0, 0),
+    mask=0x3f,
+    flags=0x0,
+    OS=0x40004,
+    fileType=0x1,
+    subtype=0x0,
+    date=(0, 0)
+  ),
+  kids=[
+    StringFileInfo(
+      [
+      StringTable(
+        u'040904B0',
+        [StringStruct(u'CompanyName', u'FSOCIETY'),
+        StringStruct(u'FileDescription', u'OSINT Security Toolkit'),
+        StringStruct(u'FileVersion', u'5.0.0.0'),
+        StringStruct(u'InternalName', u'FSOCIETY'),
+        StringStruct(u'LegalCopyright', u'2024 FSOCIETY'),
+        StringStruct(u'OriginalFilename', u'FSOCIETY-Toolkit.exe'),
+        StringStruct(u'ProductName', u'FSOCIETY Toolkit'),
+        StringStruct(u'ProductVersion', u'5.0.0.0')])
+      ]), 
+    VarFileInfo([VarStruct(u'Translation', [1033, 1200])])
+  ]
+)
