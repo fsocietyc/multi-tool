@@ -52,11 +52,11 @@ A comprehensive Python-based OSINT (Open Source Intelligence) and security toolk
 ### Quick Install
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/fsociety-toolkit.git
+git clone https://github.com/fsocietyc/multi-tool.git
 cd fsociety-toolkit
 
 # Install dependencies
 pip install -r requirements.txt
 
 # Run the toolkit
-python fsociety_toolkit.py
+python finder.exe
